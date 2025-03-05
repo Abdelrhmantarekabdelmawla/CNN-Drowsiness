@@ -19,7 +19,6 @@ The dataset was generated with the photo_taker file, the result consists of labe
 - **Convolutional Neural Network (CNN)**
 - Multiple convolutional and pooling layers
 - Fully connected layers for classification
-- Softmax activation function for binary classification
 
 ## The download the model weights
 https://drive.google.com/file/d/1wFgLetA4iMWipzID_X_QE7XyoEACASL0/view?usp=sharing
